@@ -5,8 +5,8 @@ body {
     background-color: #9bc5d8;
 }
 
-.mainHeading {
-    color: rgb(51, 255, 0);
+#mainHeading {
+    color: red;
     font-size: 2em;
     text-align: center;
     padding: 10px;
@@ -14,7 +14,7 @@ body {
 }
 
 .funParagraph {
-    color: rgb(0, 109, 128);
+    color: green;
     font-size: 1.2em;
     line-height: 1.6;
     padding: 15px;
